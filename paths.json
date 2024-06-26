@@ -2,8 +2,6 @@
   "mappings": [
     "/content/borgo-eds01/:/",
     "/content/aem-boilerplate/configuration:/.helix/config.json"
-  ],
-  "includes": [
-    "/content/dam/borgo"
-      ]
+  ]
+ 
 }
