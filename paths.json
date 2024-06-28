@@ -2,6 +2,7 @@
   "mappings": [
     "/content/borgo-eds01/:/",
     "/content/borgo-eds01/fatture:/fatture.json",
+    "/content/borgo-eds01/redirects:/redirects.json",
     "/content/aem-boilerplate/configuration:/.helix/config.json"
   ]
  
