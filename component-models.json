@@ -202,7 +202,14 @@
          "name": "author",
          "label": "Author",
          "value": ""
-       }
+       },
+       {
+        "component": "text-input",
+        "valueType": "string",
+        "name": "certification",
+        "label": "Certificazione",
+        "value": ""
+      }
      ]
   }
 ]

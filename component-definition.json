@@ -146,8 +146,9 @@
                 "template": {
                   "name": "Quote",
                   "model": "quote",
-                  "quote": "<p>Think, McFly! Think!</p>",
-                  "author": "GBorgo"
+                  "quote": "<p>Think, Beppe! Think!</p>",
+                  "author": "GBorgo",
+                  "certification": "laurea in economia"
                 }
               }
             }
