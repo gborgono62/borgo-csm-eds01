@@ -18,6 +18,12 @@ main .hero-container {
   margin-right: auto;
   color: white;
 }
+.hero h2 {
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  color: blue;
+}
 
 .hero picture {
   position: absolute;

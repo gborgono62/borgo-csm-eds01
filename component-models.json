@@ -211,5 +211,17 @@
         "value": ""
       }
      ]
+  },
+  {
+    "id": "table",
+    "fields": [
+       {
+         "component": "text-area",
+         "name": "testo",
+         "value": "",
+         "label": "Testo",
+         "valueType": "string"
+       }
+     ]
   }
 ]
