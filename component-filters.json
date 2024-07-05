@@ -29,7 +29,8 @@
       "cards",
       "columns",
       "quote",
-      "table"
+      "table",
+      "simpleMarquee"
     ]
   },
   {
