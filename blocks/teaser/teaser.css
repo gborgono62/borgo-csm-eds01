@@ -28,6 +28,8 @@
 /* text comes second */
 .teaser.block div.text {
   order: 2;
+  font-weight: 400;
+  text-transform: uppercase;
 }
 
 /* text title */
