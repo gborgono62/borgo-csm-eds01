@@ -28,12 +28,10 @@
 /* text comes second */
 .teaser.block div.text {
   order: 2;
-  font-weight: 400;
-  text-transform: uppercase;
-}
+  }
 
 /* text title */
-.teaser.block > div > div > h1 {
+.teaser.block > div >  h1 {
   color: var(--heading-border-color);
   font-family: var(--heading-font-family);
   font-weight: 400;
