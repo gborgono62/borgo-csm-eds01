@@ -31,7 +31,7 @@
   }
 
 /* text title */
-.teaser.block > div >  h1 {
+.teaser.block  h1 {
   color: var(--heading-border-color);
   font-family: var(--heading-font-family);
   font-weight: 400;
