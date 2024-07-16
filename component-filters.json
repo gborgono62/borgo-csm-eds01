@@ -30,8 +30,8 @@
       "columns",
       "quote",
       "table",
-      "teaser",
-      "carousel"
+      "teaser"
+      
     ]
   },
   {
@@ -39,12 +39,6 @@
     "components": [
       "card"
     ]
-  },
-  {
-    "id": "carousel",
-    "components": [
-      "image",
-      "text"
-    ]
   }
+  
 ]
