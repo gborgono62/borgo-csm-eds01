@@ -1,8 +1,5 @@
 {
-  "plugins": [
-    { "project": "borgo-eds01",
+  "project": "AEM XWalk Boilerplate",
   "editUrlLabel": "AEM Editor",
-  "editUrlPattern": "{{https://author-p91256-e801658.adobeaemcloud.com}}{{borgo-eds01}}?cmd=open"
-}
-  ]
+  "editUrlPattern": "{{contentSourceUrl}}{{pathname}}?cmd=open"
 }
